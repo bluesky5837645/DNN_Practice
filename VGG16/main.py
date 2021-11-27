@@ -307,22 +307,3 @@ if __name__ == '__main__':
     fig.add_subplot(2, 1, 2)
     plt.plot(np.linspace(1, num_epoches,num_epoches), np.asarray(epoches_loss))
     plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
